@@ -1,6 +1,6 @@
 # pkmnD_YTlive_ctl
 
-##Installation(Emulator編)
+## Installation(Emulator編)
 1.[NEO2_Pro_Manager&Driver](https://www.neoflash.com/forum/index.php/topic,7831.0.html)
   and here is the last V2 CD driver disk download linkから上記をダウンロード
 2.[Windows10で署名なしドライバ をインストールする方法](http://pasofami.game.coocan.jp/Win10_DrvIns.htm)
@@ -9,7 +9,7 @@
 4.NEO2_Pro_Managerを使ってSMS4に刺したDSソフトからROMを吸い出し.ndsファイルで出力する
 5.Desmumeエミュレータで.ndsファイルを実行
 
-##Installation(YouTubeLive編)
+## Installation(YouTubeLive編)
 
-##Installation(Sorce code編)
+## Installation(Sorce code編)
 
